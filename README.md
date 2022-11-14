@@ -5,7 +5,7 @@ I am currently studying and practicing to become a front-end developer. I also e
 
 * 🌍  I'm based in San José Costa Rica
 * ✉️  You can contact me at [jaiorozco@hotmail.com](mailto:jaiorozco@hotmail.com)
-* 🚀  I'm currently working on [update my todo list](http://chrono234.github.io/To-do-list/)
+* 🚀  I'm currently working on [creating an E-comerse]([(https://github.com/chrono234/E-comerse)](https://chrono234.github.io/E-comerse/))
 * 🧠  I'm learning More of Javascript
 * 🤝  I'm open to collaborating on team and learn more of people
 * ⚡  I love what I do
