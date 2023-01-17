@@ -27,8 +27,4 @@ I am currently studying and practicing to become a front-end developer. I also e
 
 <p align="left"> <a href="https://www.github.com/chrono234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jairo-orozco-5a8711b4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/chrono234"><img src="https://github-readme-stats.vercel.app/api?username=chrono234&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="chrono234's GitHub stats" /></a>
